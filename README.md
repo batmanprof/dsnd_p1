@@ -34,4 +34,5 @@ Thanks to Udacity for this great project.
 
 The results can be found in the notebook.
 Here you can find the blog post I wrote about my findings:
-XXX
+https://medium.com/@batmanprof/analysing-different-aspects-of-boston-airbnb-listing-prices-24d1ac993219
+(I am new on Medium, therefore I could not publish my post, so this is only a draft version.)
